@@ -1,0 +1,10 @@
+openai
+langchain
+streamlit
+langchain-community
+langchain-openai
+
+langserve 
+fastapi
+uvicorn
+sse_starlette
